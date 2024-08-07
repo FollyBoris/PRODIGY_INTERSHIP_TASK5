@@ -13,7 +13,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/FollyBoris/PRODIGY_INTERSHIP_TASK5.git
-cd PRODIGY_INTERSHIP_TASK
+cd PRODIGY_INTERSHIP_TASK5
 ```
 ### Create a virtual environment:
 
